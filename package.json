@@ -1,6 +1,6 @@
 {
   "name": "@edx/frontend-component-header",
-  "version": "1.0.0-semantically-released",
+  "version": "4.0.0",
   "description": "The standard header for Open edX",
   "main": "dist/index.js",
   "publishConfig": {
@@ -36,7 +36,7 @@
     "@edx/brand": "npm:@edx/brand-openedx@1.2.0",
     "@edx/browserslist-config": "^1.1.1",
     "@edx/frontend-build": "12.8.10",
-    "@edx/frontend-platform": "git+https://github.com/vunguyen-dmt/frontend-platform#v4.2.0_vi_dist",
+    "@edx/frontend-platform": "github:vunguyen-dmt/frontend-platform#v4.2.0_vi_dist",
     "@edx/reactifex": "^2.1.1",
     "@testing-library/dom": "9.2.0",
     "@testing-library/jest-dom": "5.16.5",
